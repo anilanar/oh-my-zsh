@@ -1,0 +1,3 @@
+[submodule "custom/plugins/git-open"]
+	path = custom/plugins/git-open
+	url = git@github.com:paulirish/git-open.git
